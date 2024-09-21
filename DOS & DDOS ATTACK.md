@@ -1,3 +1,5 @@
+# DOS & DDOS ATTACK
+
 ![DOS   DDOS ATTACK](https://github.com/user-attachments/assets/978a350f-93d7-4afa-b713-077243212ef7)
 
 DOS or Denial-of-Service and DDOS or Distributed Denial-of-Service are among the newest and most dangerous attacks that are carried out on the Internet. This type of operation is called an operation in which a hacker or an intruder makes the server or computer unavailable by sending too many and malicious requests(half-full request).
