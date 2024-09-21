@@ -1,3 +1,5 @@
+# RECON (Reconnaissance)
+
 ![RECON1 ](https://github.com/user-attachments/assets/b88e14b4-87aa-461d-b5ba-6a7dca8110a1)
 
 **RECON or Reconnaissance** in web security is the first and one of the most important stages of security assessment. This stage includes gathering information about the target in order to identify and exploit possible weaknesses.
