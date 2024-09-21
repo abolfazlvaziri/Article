@@ -1,3 +1,5 @@
+# Store XSS On Cryptocurrency Website
+
 ![XSS1](https://github.com/user-attachments/assets/f4450cf7-9ca7-45ba-a1eb-70caa9fd44ea)
 
 Sometimes vulnerability is in the simplest things that cannot be seen…
