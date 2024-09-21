@@ -1,3 +1,5 @@
+# Linux VPN Connection Issues
+
 ![VPN](https://github.com/user-attachments/assets/7745ce7a-1ebc-4a72-a2aa-7f6911ed43ab)
 
 One of the common issues faced by Linux users when using a VPN is the inability to connect or frequent disconnections. This issue is often caused by incorrect DNS settings. Changing the DNS to more reliable and faster servers can help resolve this problem.
