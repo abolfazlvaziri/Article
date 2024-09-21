@@ -1,3 +1,5 @@
+# Information Disclosure+XSS on Android APP
+
 ![XSS](https://github.com/user-attachments/assets/7574cd0b-0f8c-4578-9c90-1eb3744a0d46)
 
 I believe the security is a complex and very important process. Due to the lack of permission, the name of the application is not mentioned, and I call it an Android application.
