@@ -24,7 +24,7 @@ At that moment, I wrote a full report and reported to the technical team, and th
 
 I trusted the post of a reliable Telegram channel and it caused me to repeat another experience that is very useful for beginners, as much as possible, **do not operate without the approval of the program and outside the Bugbunty platform.**
 
-GitHub: [https://github.com/abolfazlvaziri](https://github.com/abolfazlvaziri) 
+Medium: [https://medium.com/@abolfazl.vaziri](https://medium.com/@abolfazl.vaziri)  
 Instagram: [https://instagram.com/abolfazlvaziriofficial](https://instagram.com/abolfazlvaziriofficial) 
 Telegram Channel: [https://t.me/AVN_COMMUNITY](https://t.me/AVN_COMMUNITY) 
 YouTube: [https://www.youtube.com/@abolfazlvaziri](https://www.youtube.com/@abolfazlvaziri)
