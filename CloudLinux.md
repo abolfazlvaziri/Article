@@ -32,7 +32,7 @@ Unfortunately, many **Web Developers** and **WordPress Site designers,** aim
 ## How To Purchase CloudLinux?
 To purchase **CloudLinux**, visit the official website at [cloudlinux.com](https://www.cloudlinux.com/), select your desired plan, and complete the registration and payment process.
 
-GitHub: [https://github.com/abolfazlvaziri](https://github.com/abolfazlvaziri) 
+Medium: [https://medium.com/@abolfazl.vaziri](https://medium.com/@abolfazl.vaziri)  
 Instagram: [https://instagram.com/abolfazlvaziriofficial](https://instagram.com/abolfazlvaziriofficial) 
 Telegram Channel: [https://t.me/AVN_COMMUNITY](https://t.me/AVN_COMMUNITY) 
 YouTube: [https://www.youtube.com/@abolfazlvaziri](https://www.youtube.com/@abolfazlvaziri)
