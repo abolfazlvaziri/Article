@@ -58,7 +58,7 @@ In this phase, we will examine the internal target and try to discover the vulne
 
 In the next articles, I will post more specialized and detailed information about each of the categories and phases of RECON, in this article I was just trying to familiarize you with the concept of RECON and its categories.
 
-GitHub: [https://github.com/abolfazlvaziri](https://github.com/abolfazlvaziri) 
+Medium: [https://medium.com/@abolfazl.vaziri](https://medium.com/@abolfazl.vaziri)  
 Instagram: [https://instagram.com/abolfazlvaziriofficial](https://instagram.com/abolfazlvaziriofficial) 
 Telegram Channel: [https://t.me/AVN_COMMUNITY](https://t.me/AVN_COMMUNITY) 
 YouTube: [https://www.youtube.com/@abolfazlvaziri](https://www.youtube.com/@abolfazlvaziri)
