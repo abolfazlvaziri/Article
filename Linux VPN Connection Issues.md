@@ -51,7 +51,7 @@ To configure a proxy for Telegram via Nekoray:
 
 By following these methods, you can effectively troubleshoot and resolve VPN connectivity issues on Linux, ensuring a more stable and secure connection.
 
-GitHub: [https://github.com/abolfazlvaziri](https://github.com/abolfazlvaziri) 
+Medium: [https://medium.com/@abolfazl.vaziri](https://medium.com/@abolfazl.vaziri)  
 Instagram: [https://instagram.com/abolfazlvaziriofficial](https://instagram.com/abolfazlvaziriofficial) 
 Telegram Channel: [https://t.me/AVN_COMMUNITY](https://t.me/AVN_COMMUNITY) 
 YouTube: [https://www.youtube.com/@abolfazlvaziri](https://www.youtube.com/@abolfazlvaziri)
