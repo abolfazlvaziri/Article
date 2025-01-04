@@ -210,7 +210,7 @@ Ansible is a powerful automation tool that boosts efficiency and consistency in 
 
 ---
 
-GitHub: [https://github.com/abolfazlvaziri](https://github.com/abolfazlvaziri)  
+Medium: [https://medium.com/@abolfazl.vaziri](https://medium.com/@abolfazl.vaziri)  
 Instagram: [https://instagram.com/abolfazlvaziriofficial](https://instagram.com/abolfazlvaziriofficial)  
 Telegram Channel: [https://t.me/AVN_COMMUNITY](https://t.me/AVN_COMMUNITY)  
 YouTube: [https://www.youtube.com/@abolfazlvaziri](https://www.youtube.com/@abolfazlvaziri)
