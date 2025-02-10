@@ -5,9 +5,9 @@ Ansible is a powerful automation tool that simplifies the management and configu
 
 **If you’re new to Ansible, I recommend reviewing these foundational articles:**
 
-- [Ansible: The Magic of Automation — Introduction & Installation](https://medium.com/@abolfazl.vaziri/ansible-the-magic-of-automation-introduction-installation-2f51128b4fe7?source=user_profile_page---------1-------------61909607521e---------------)
-- [Ansible: Mastering Its Structure for Effective Automation](https://medium.com/@abolfazl.vaziri/ansible-mastering-its-structure-for-effective-automation-29f1cae42a9a?source=user_profile_page---------0-------------61909607521e---------------)
-- [Ansible: Unlocking Advanced Automation Techniques](https://medium.com/@abolfazl.vaziri/ansible-unlocking-advanced-automation-techniques-0be08188c3f5)
+- [Ansible: The Magic of Automation — Introduction & Installation](https://github.com/abolfazlvaziri/Article/blob/main/Ansible%3A%20The%20Magic%20of%20Automation-Introduction%20%26%20Installation.md)
+- [Ansible: Mastering Its Structure for Effective Automation](https://github.com/abolfazlvaziri/Article/blob/main/Ansible%20Mastering%20Its%20Structure%20for%20Effective%20Automation.md)
+- [Ansible: Unlocking Advanced Automation Techniques](https://github.com/abolfazlvaziri/Article/blob/main/Ansible%20Unlocking%20Advanced%20Automation%20Techniques.md)
 
 ---
 
